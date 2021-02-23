@@ -1,0 +1,85 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[left=2.00cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\linespread{1.25}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+\let\paragraph\ignorespaces
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{graphicx}
+
+
+
+\begin{document}
+	
+\begin{titlepage}
+	
+\begin{center}
+	\large Университет ИТМО\\[5cm]
+	\LARGE Практическая работа №1\\
+	\normalsize по дисциплине <<Визуализация и моделирование>>\\[5cm]
+\end{center}
+\begin{flushright}
+		\begin{minipage}{0.6\textwidth}
+		\begin{flushleft}
+			\large
+			\singlespacing 
+			\textbf{Автор:} Костылев Иван Михайлович\\
+			\textbf{Поток:} 1.1\\
+			\textbf{Группа:} K3240\\
+			\textbf{Факультет:} ИКТ\\
+			\textbf{Преподаватель:} Чернышева А.В.
+		\end{flushleft}
+	\end{minipage}
+\end{flushright}
+
+\vfill
+
+\begin{center}
+	{\large Санкт-Петербург, \the\year{ г.}}
+\end{center}
+ 
+\end{titlepage}
+\normalsize
+
+
+\large \textbf{Описание датасета}
+
+\normalsize
+	Датасет состоит из данных о студентах, их родителей и оценок, полученных ими по различным предметам.
+
+
+
+\large \textbf{Формальное описание}
+
+\begin{tabular}{ | p{100pt} | p{140pt} | p{140pt} | p{50pt} | }
+\hline
+Столбец & Описание & Значения & Формат  \\ \hline
+gender & пол студента & male / female & текст\\ \hline
+race/ethnicity & расовая классификация & group A / group B / group C / group D & текст \\ \hline
+parental level of education & уровень образования родителей & collegue / school / bachelor's degree / others & текст \\ \hline
+lunch & оплата обеда & standart / free/reduced & текст \\ \hline
+test preparation & подготовка к тесту & none / completed & текст \\ \hline
+math score & оценка по математике & 0..100 & целое число \\ \hline
+reading score & оценка по чтению & 0..100 & целое число \\ \hline
+writting score & оценка по письму & 0..100 & целое число \\ \hline
+\end{tabular}
+\\
+
+
+\large \textbf{Глобальные задачи}
+
+1. Найти зависимость национальной группы от успеваемости студентов или показать, что такой нет;
+
+2. Найти зависимость образования родителей от оценок студентов;
+
+3. Ответить на вопрос "Помогает ли подготовка к тесту лучше сдать его?";
+
+\textbf{ 4. На основе датасета предсказать среднюю оценку нового студента, который ещё не писал тесты;}
+
+\textbf{ 5. Предсказать по новым данным оценки студента по всем предметам в отдельности.}
+
+\end{document}
