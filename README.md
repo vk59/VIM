@@ -4,7 +4,7 @@ Visualisation and Modeling assignments at ITMO Universuty.
 ### My progress
 | Task          | Short description  | Ready | Last commit |
 | ------------- |:------------------:| :-----:| :-----: |
-| Lab 1 | Dataset    | ✅ | 23.02.2021 |
+| Lab 1 | Dataset    | ✔ | 23.02.2021 |
 | Lab 2 | Descriptive statistics of the found dataset | ❌ | - |
 | Lab 3 | -    | ❌ | - |
 | Lab 4 | -    | ❌ | - |
@@ -13,3 +13,4 @@ Visualisation and Modeling assignments at ITMO Universuty.
 | Lab 7 | -    | ❌ | - |
 
 #### Write me in [Telegram](http://t.me/vank78 "Write me in Telegram")
+ 
