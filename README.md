@@ -5,7 +5,7 @@ Visualisation and Modeling assignments at ITMO Universuty.
 | Task          | Short description  | Ready | Last commit |
 | ------------- |:------------------:| :-----:| :-----: |
 | Lab 1 | Dataset    | ✔ | 23.02.2021 |
-| Lab 2 | Descriptive statistics of the found dataset | ❌ | - |
+| Lab 2 | Descriptive statistics of the found dataset | ✔ | 09.03.2021 |
 | Lab 3 | -    | ❌ | - |
 | Lab 4 | -    | ❌ | - |
 | Lab 5 | -    | ❌ | - |
