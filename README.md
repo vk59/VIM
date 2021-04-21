@@ -7,7 +7,7 @@ Visualisation and Modeling assignments at ITMO Universuty.
 | Lab 1 | Dataset    | ✔ | 23.02.2021 |
 | Lab 2 | Descriptive statistics of the found dataset | ✔ | 09.03.2021 |
 | Lab 3 | Data Preprocessing    | ✔ | 07.04.2021 |
-| Lab 4 | Data Visualization Modules    | ❌ | - |
+| Lab 4 | Data Visualization Modules    | ✔ | 21.04.2021 |
 | Lab 5 | -    | ❌ | - |
 | Lab 6 | -    | ❌ | - |
 | Lab 7 | -    | ❌ | - |
