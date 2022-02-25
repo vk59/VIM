@@ -10,7 +10,7 @@ Visualisation and Modeling assignments at ITMO Universuty.
 | Lab 4 | Data Visualization Modules    | ✔ | 21.04.2021 |
 | Lab 5 | -    | ❌ | - |
 | Lab 6 | -    | ❌ | - |
-| Lab 7 | -    | ❌ | - |
+| Lab 7 | Project    | ✔ | 31.05.2021 |
 
-#### Write me in [Telegram](http://t.me/vank78 "Write me in Telegram")
+#### Write me in [Telegram](http://t.me/kostyleff "Write me in Telegram")
  
